@@ -1,0 +1,75 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  /* Heading Style */
+  h1 {
+    color: #8E26C0;
+    font-family: "JetBrains Mono";
+    font-size: 64px;
+    font-style: normal;
+  }
+  
+  /* Box Styles */
+  .box {
+    width: 565px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    background: #FFE8E8;
+  }
+  
+  /* Individual Box Colors */
+  .red-box {
+    color: #F00;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+   
+  }
+  
+  .colourful-box {
+    color: #85647B;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    border-right: 6px solid #05F;
+    border-left: 4px solid #C11574;
+    border-top: 3px solid #00C76E;
+    border-bottom: 2px solid #7F56D9 ;
+    background-color: #ffffff;
+    margin-top:  35px ;
+    width: 1023px;
+
+  }
+  
+  .orange-box {
+    margin-top: 35px;
+    background: #FFE8E8;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    
+  }
+  
+  .blue-box {
+    width: 1069px;
+    padding: 24px 40px;
+    align-items: center;
+    border: 2px solid #3538CD;
+    background: #FFF;
+    margin-top: 35px;
+  }
+ 
+  
+  /* Discount Image Style */
+  .discount-image img {
+    margin-top: 20px;
+    max-width: 100%;
+    
+  }
+  
